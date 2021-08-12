@@ -1,3 +1,5 @@
+const { reverse, sortBy } = require('lodash')
+
 module.exports = {
     title: 'Rodolfo Berrios',
     base: '/',
