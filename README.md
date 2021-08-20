@@ -1,4 +1,4 @@
-# Mediumish Blog
+# Mediumish Template
 
 Markdown blog template for `rodber/mediumish`.
 
